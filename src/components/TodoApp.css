@@ -1,0 +1,7 @@
+.container {
+  text-align: center;
+}
+
+.todo-done {
+  text-decoration: line-through;
+}
